@@ -53,7 +53,7 @@ function App() {
               <Experience />
               <Skills />
             </Wrapper>
-            <Projects openModal={openModal} setOpenModal={setOpenModal} />
+            {/* <Projects openModal={openModal} setOpenModal={setOpenModal} /> */}
             <Wrapper>
               <Contact />
             </Wrapper>

@@ -60,7 +60,7 @@ const Experience = () => {
             marginBottom: "40px",
           }}
         >
-        My background lies in Research and Development Engineering, but I'm currently aiming to transition into a Full Stack Developer role.
+        My background lies in Commerce and Accounts, but I aim to transition into a well-rounded Digital Marketer.
         </Desc>
 
         <VerticalTimeline>

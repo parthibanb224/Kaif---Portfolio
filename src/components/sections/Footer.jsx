@@ -88,7 +88,7 @@ const Copyright = styled.p`
 
 const Footer = () => {
 
-  const yourWhatsAppNumber = "6385916880"; 
+  const yourWhatsAppNumber = "9841491311"; 
   const handleWhatsAppClick = () => {
     const defaultMessage = "Hi Kaif! I came across your impressive portfolio and would love to discuss potential opportunities with you. Do you have a few minutes to chat on WhatsApp?";
     const whatsappLink = `https://wa.me/${yourWhatsAppNumber}?text=${encodeURIComponent(defaultMessage)}`;
@@ -118,7 +118,7 @@ const Footer = () => {
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
           </SocialMediaIcon>
-          <SocialMediaIcon href={Bio.github} target="display">
+          {/* <SocialMediaIcon href={Bio.github} target="display">
             <GitHubIcon />
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.insta} target="display">
@@ -126,7 +126,7 @@ const Footer = () => {
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.youtube} target="display">
             <YouTubeIcon />
-          </SocialMediaIcon>
+          </SocialMediaIcon> */}
         </SocialMediaIcons>
         <Copyright>&copy; 2024 Mohammed Kaif. All rights reserved.</Copyright>
       </FooterWrapper>

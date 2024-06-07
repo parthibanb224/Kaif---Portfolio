@@ -159,10 +159,10 @@ const Contact = () => {
     // Send email if all fields are filled
     emailjs
     .sendForm(
-      "service_sish9b8",
-      "template_d01vvn8",
+      "service_0ehfhep",
+      "template_4grvi2v",
       form.current,
-      "EoeMfWvm-1wXENkht"
+      "FYdGZirDfPsZuIdCw"
       )
       .then(
         (result) => {
@@ -201,7 +201,7 @@ const Contact = () => {
         <EarthCanvas />~
         <Title>Contact</Title>
         <Desc>
-        Feel free to reach out to me for any questions or opportunities!<br/>You can contact me directly at +91 63859 16880.
+        Feel free to reach out to me for any questions or opportunities!<br/>You can contact me directly at +91 9841491311.
         </Desc>
         <ContactForm  ref={form} onSubmit={sendEmail}>
           <ContactTitle>Email Me 🚀</ContactTitle>

@@ -1,15 +1,15 @@
 export const Bio = {
   name: "MOHAMMED KAIF",
-  roles: ["Search Engine Optimist", "ORM Executive"],
+  roles: ["Search Engine Optimist", "Digital Marketer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/SanthoshS50",
+    "I'm experience in SEO and digital marketing. I specialize in driving organic traffic growth, achieving top search engine rankings, and managing online reputation. I contributed to multiple successful projects, maintaining a positive brand image while boosting website visibility.",
+  // github: "https://github.com/SanthoshS50",
   resume:
-    "https://drive.google.com/file/d/1Ebtd2zcjkCPCVy4nM8KbjNWJLuW0Jebw/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/santhosh29092001/",
-  youtube: "https://www.youtube.com/@wonderaquagarden",
-  insta: "https://www.instagram.com/__.sweet._.sandy._.official.__/",
-  phone: "tel:+91 6385916880",
+    "https://drive.google.com/file/d/1S_G5z4NdJsNynXczVRNy1es_8oP2ewOF/view",
+  linkedin: "https://www.linkedin.com/in/mkaif644/",
+  // youtube: "https://www.youtube.com/@wonderaquagarden",
+  // insta: "https://www.instagram.com/__.sweet._.sandy._.official.__/",
+  phone: "tel:+91 9841491311",
 };
 
 export const skills = [
@@ -54,7 +54,7 @@ export const skills = [
       {
         name: "Photoshop",
         image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAA/0lEQVR4AWJwL/ChK2b4xQ9otQyqIIRhIJr3cMARE2hAxAqoCJRgAh0YWAE44FQHuy8HbqXzG3qYU0N+KMkES1DTUxI/o3k8+EckKsd5aOAGgFtP4ASAYy/gQRvCY3sAlwbg8haYFaQAzW+AawC4vgEOkeGOAncKKAD3CHCuJPy4KudzK/AUb/B1iZizBZiEb0pD8BwYiC1MWB4F8iS0OAEc9Yzh6x8V8BAVXwXghf21AFy4T/LnnoA5vAn0zeQScFWjIIS+vcFumwv/J0eku436phu5q2ZfxF9N+WZj1yblr6Z8E+0+7sGn1aoiV9y4ZZLRJStWVbolZnIIg6L6A6eYZv1Af+OuAAAAAElFTkSuQmCC",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8-uZkEl48SYGh7Xdru7IbP7vFmETOwKYREA&s",
       },
       {
         name: "Medium",
@@ -102,7 +102,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.alliancein.com/wp-content/uploads/2022/03/alliance-group-logo.png",
+    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAIVBMVEX5twD7uADYnwbQmQbprARPPBQhGxYBAxhvUxG7iwyQbBG3Bt/aAAAAAXRSTlP+GuMHfQAAAMBJREFUeAFNy6dVBAAABNFZgt8hg4MKoAMUntwHGYcCCx3grszLad28/xYMTRGhmBLTBFJEVRKtUImwtKiNwBRrVVSDCUZNG6CuVrBnceN853zn1BD3Hi66/XL0OfgHnKTjfH39U8xc334bKHP90Lr2NQlZ6HNDsTz+eTVNizi43fr5OnpWhHr1/vB+OlaEwN73260nNyVB49ZZwiUQalATSaCmpZJpamxJma3RpCKBqG3DSmtKDaCG1gVOq2kJjABWvCFnGvKVrwAAAABJRU5ErkJggg==",
     role: "Executive - Digital Operations & ORM",
     company: "Alliance Group",
     date: "December 2023 - July 2024",
@@ -111,7 +111,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://www.alliancein.com/wp-content/uploads/2022/03/alliance-group-logo.png",
+    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAIVBMVEX5twD7uADYnwbQmQbprARPPBQhGxYBAxhvUxG7iwyQbBG3Bt/aAAAAAXRSTlP+GuMHfQAAAMBJREFUeAFNy6dVBAAABNFZgt8hg4MKoAMUntwHGYcCCx3grszLad28/xYMTRGhmBLTBFJEVRKtUImwtKiNwBRrVVSDCUZNG6CuVrBnceN853zn1BD3Hi66/XL0OfgHnKTjfH39U8xc334bKHP90Lr2NQlZ6HNDsTz+eTVNizi43fr5OnpWhHr1/vB+OlaEwN73260nNyVB49ZZwiUQalATSaCmpZJpamxJma3RpCKBqG3DSmtKDaCG1gVOq2kJjABWvCFnGvKVrwAAAABJRU5ErkJggg==",
     role: "Digital Marketing Trainee",
     company: "Alliance Group",
     date: "September 2023 - December 2023",
@@ -120,7 +120,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://www.alliancein.com/wp-content/uploads/2022/03/alliance-group-logo.png",
+    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAIVBMVEX5twD7uADYnwbQmQbprARPPBQhGxYBAxhvUxG7iwyQbBG3Bt/aAAAAAXRSTlP+GuMHfQAAAMBJREFUeAFNy6dVBAAABNFZgt8hg4MKoAMUntwHGYcCCx3grszLad28/xYMTRGhmBLTBFJEVRKtUImwtKiNwBRrVVSDCUZNG6CuVrBnceN853zn1BD3Hi66/XL0OfgHnKTjfH39U8xc334bKHP90Lr2NQlZ6HNDsTz+eTVNizi43fr5OnpWhHr1/vB+OlaEwN73260nNyVB49ZZwiUQalATSaCmpZJpamxJma3RpCKBqG3DSmtKDaCG1gVOq2kJjABWvCFnGvKVrwAAAABJRU5ErkJggg==",
     role: "Digital Marketing Intern",
     company: "Alliance Group",
     date: "June 2023 - September 2023",
